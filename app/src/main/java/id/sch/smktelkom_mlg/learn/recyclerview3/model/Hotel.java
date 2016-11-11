@@ -3,7 +3,7 @@ package id.sch.smktelkom_mlg.learn.recyclerview3.model;
 import java.io.Serializable;
 
 /**
- * Created by Muchsin on 28/10/2016.
+ * Created by Mahendra on 28/10/2016.
  */
 public class Hotel implements Serializable {
     public String judul;
